@@ -14,4 +14,6 @@
     <color name="tan_background">#FFF7DA</color>
     <color name="number_background">#FD8E09</color>
 
+    <color name="white">#FFFFFF</color>
+
 </resources>

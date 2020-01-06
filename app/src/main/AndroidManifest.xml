@@ -14,14 +14,14 @@
         <activity android:name=".PhrasesActvity" android:theme="@style/Activity" />
         <activity android:name=".NumbersActivity" android:theme="@style/Activity" />
         <activity android:name=".MiwokActivity" >
+        </activity>
+        <activity android:name=".MainActivity" >
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
 
             <category android:name="android.intent.category.LAUNCHER" />
         </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" />
-
     </application>
 
 </manifest>

@@ -62,6 +62,6 @@
             android:padding="10dp"
             android:text="Submit"
             android:textSize="20sp"
-            android:background="@drawable/border"/>
+            style="@style/Button"/>
     </LinearLayout>
 </LinearLayout>
